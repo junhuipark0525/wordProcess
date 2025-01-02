@@ -8,6 +8,7 @@ Word Processing Program. A counter program for a certain character based on user
 
 ## testFile.txt
 * an example text file to test run
+
 example runsheet:
   $ ./process
   Please enter a character: g
